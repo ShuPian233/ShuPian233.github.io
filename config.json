@@ -1,0 +1,27 @@
+{
+    "name": "ShuPian_233",
+    "repo": "gitblog",
+    "client_id": "5cf91c3bf1434bd14c33",
+    "client_secret": "15d5a163c156701bf624c5e2df8130a2cb6a5fa3",
+    "title": "Gitblog",
+    "instruction": "基于GitHub issue的个人博客",
+    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "filter": {
+        "creator": "all",
+        "state": "open"
+    },
+    "menu": {
+        "首页":"./"
+    },
+    "friends": {
+        "imuncle" : "https://shupian233.github.io/"
+    },
+    "icons": {
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "https://githubfast.com/ShuPian233/ShuPian233.github.io",
+            "hidden_img" : null,
+            "width" : 0
+        }
+    }
+}
